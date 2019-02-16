@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+業務用カメラの開発をしています。
+電気基板設計、FPGAのRTL設計、マイコンソフトウェア設計など行っています。
 
 ### More Information
 
