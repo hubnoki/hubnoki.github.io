@@ -1,4 +1,6 @@
 ---
 layout: post
-title: First post
+title: 初投稿
 ---
+
+勉強したことのメモ、開発のプランニングなど書いていこうと思う
